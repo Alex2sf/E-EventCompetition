@@ -1,6 +1,6 @@
 # E-Event Competition
 
-E-Event Competition adalah aplikasi web yang dirancang untuk mengelola dan menyelenggarakan kompetisi secara online. Proyek ini menggunakan HTML, CSS, dan JavaScript untuk front-end, serta MySQL untuk manajemen database. Terdapat dua sisi dalam aplikasi ini: sisi Admin dan sisi User.
+E-Event Competition adalah aplikasi web yang dirancang untuk mengelola dan menyelenggarakan kompetisi secara online. Proyek ini menggunakan HTML, CSS, dan JavaScript untuk front-end, serta PHP dan MySQL untuk manajemen database. Terdapat dua sisi dalam aplikasi ini: sisi Admin dan sisi User.
 
 ## Fitur
 
